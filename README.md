@@ -36,7 +36,7 @@ Job output monitoring using SDSF
 Fixed-value data initialization
 
 Multi-record processing logic
-#Purposeoftheproject
+##Purposeoftheproject
 🔹**Purpose of the Project**
 
 This project demonstrates foundational COBOL programming skills commonly used in enterprise and legacy financial systems. It reflects real-world utility billing logic and reinforces structured procedural design principles.
