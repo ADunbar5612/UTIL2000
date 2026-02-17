@@ -1,9 +1,11 @@
-# UTIL2000
-📋 Project Overview
+UTIL2000 – COBOL Utility Billing System
+Table of Contents
 
-UTIL2000 is a COBOL utility billing program developed using an IBM mainframe environment through TN3270, working exclusively within ISPF and SDSF.
+Billing Structure
 
-This assignment focuses on enterprise development workflows, including dataset management, COBOL program modification, mainframe tooling, and professional documentation practices.
+Concepts Demonstrated
+
+Purpose of the Project
 
 🔹 Billing Structure
 
@@ -34,6 +36,9 @@ Job output monitoring using SDSF
 Fixed-value data initialization
 
 Multi-record processing logic
+🔹 Purpose of the Project
+
+This project demonstrates foundational COBOL programming skills commonly used in enterprise and legacy financial systems. It reflects real-world utility billing logic and reinforces structured procedural design principles.
 
 Professional documentation standards
 
