@@ -1,13 +1,13 @@
 UTIL2000 – COBOL Utility Billing System
 Table of Contents
 
-Billing Structure
+**Billing Structure**
 
-Concepts Demonstrated
+**Concepts Demonstrated**
 
-Purpose of the Project
+**Purpose of the Project**
 
-🔹 Billing Structure
+🔹 **Billing Structure**
 
 The application applies a three-tier rate model:
 
@@ -21,7 +21,7 @@ Service Fee: Flat $14.95 per customer
 
 This demonstrates conditional logic, arithmetic operations, and tier segmentation in COBOL.
 
-🧠 Concepts Demonstrated:
+🧠 **Concepts Demonstrated:**
 
 This project applies several enterprise computing concepts:
 
@@ -43,7 +43,8 @@ This project demonstrates foundational COBOL programming skills commonly used in
 Professional documentation standards
 
 GitHub version control workflow
-Project Output:
+
+**Project Output** :
 <img width="268" height="742" alt="image" src="https://github.com/user-attachments/assets/85dcec35-a273-40d6-8676-53c4a60d6fb5" />
 
 
