@@ -1,11 +1,11 @@
 UTIL2000 – COBOL Utility Billing System
 Table of Contents
 
-**Billing Structure**
+[**Billing Structure**]
 
-**Concepts Demonstrated**
+[**Concepts Demonstrated**]
 
-**Purpose of the Project**
+[**Purpose of the Project**](#Purposeoftheproject)
 
 🔹 **Billing Structure**
 
