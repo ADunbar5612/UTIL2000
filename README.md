@@ -5,17 +5,19 @@ UTIL2000 is a COBOL utility billing program developed using an IBM mainframe env
 
 This assignment focuses on enterprise development workflows, including dataset management, COBOL program modification, mainframe tooling, and professional documentation practices.
 
-:llama: Program Purpose
+🔹 Billing Structure
 
-The goal of UTIL2000 is to calculate total utility costs for multiple customers by:
+The application applies a three-tier rate model:
 
-Processing predefined customer energy usage values
+Tier 1: First 500 kWh at $0.12 per kWh
 
-Applying a fixed service fee
+Tier 2: Next 500 kWh (501–1000) at $0.15 per kWh
 
-Calculating and displaying total utility charges
+Tier 3: Any usage above 1000 kWh at $0.18 per kWh
 
-The program expands the original single-customer logic to support multiple customer records.
+Service Fee: Flat $14.95 per customer
+
+This demonstrates conditional logic, arithmetic operations, and tier segmentation in COBOL.
 
 🧠 Concepts Demonstrated:
 
