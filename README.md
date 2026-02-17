@@ -43,4 +43,7 @@ This project demonstrates foundational COBOL programming skills commonly used in
 Professional documentation standards
 
 GitHub version control workflow
+Project Output:
+<img width="268" height="742" alt="image" src="https://github.com/user-attachments/assets/85dcec35-a273-40d6-8676-53c4a60d6fb5" />
+
 
