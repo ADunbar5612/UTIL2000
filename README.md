@@ -36,8 +36,13 @@ This project applies several enterprise computing concepts:
 
 ## Purpose of the Project
 
-This project demonstrates foundational COBOL programming skills commonly
+This project demonstrates foundational COBOL programming skills commonly used in enterprise and legacy financial systems. It reflects real-world utility billing logic and reinforces structured procedural design principles.
 
-<img width="268" height="742" alt="image" src="https://github.com/user-attachments/assets/85dcec35-a273-40d6-8676-53c4a60d6fb5" />
+- Professional documentation standards  
+- GitHub version control workflow  
 
+---
+
+## Project Output:
+<img width="295" height="732" alt="image" src="https://github.com/user-attachments/assets/9b7d8723-05bc-445b-9076-c3020178bfba" />
 
